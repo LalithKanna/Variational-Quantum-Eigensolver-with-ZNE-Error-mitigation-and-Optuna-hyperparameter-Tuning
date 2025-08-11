@@ -1,0 +1,7 @@
+qiskit
+optuna
+numpy
+scipy
+matplotlib
+seaborn
+tabulate
