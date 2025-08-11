@@ -15,7 +15,7 @@ This project demonstrates a state-of-the-art quantum computing approach to molec
 ## 🚀 Features
 
 ### Core Algorithms
-- **Full Configuration Interaction (FCI)**: Exact quantum mechanical solution
+- **Full Configuration Interaction (FCI)**: Current Best method
 - **Hartree-Fock (HF)**: Mean-field approximation baseline
 - **VQE with UCCSD Ansatz**: Unitary Coupled Cluster Singles and Doubles
 - **VQE with Hardware-Efficient Ansatz**: Optimized for NISQ devices
