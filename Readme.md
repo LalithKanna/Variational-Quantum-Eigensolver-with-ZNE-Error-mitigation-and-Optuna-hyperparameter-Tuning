@@ -1,4 +1,4 @@
-# VQE-ZNE for H₂ Molecule: Comprehensive Quantum Chemistry Analysis
+# VQE-ZNE with Optuna for H₂ Molecule: Comprehensive Quantum Chemistry Analysis
 
 A complete implementation of the Variational Quantum Eigensolver (VQE) with Zero Noise Extrapolation (ZNE) error mitigation and Optuna hyperparameter optimization for hydrogen molecule ground state energy calculation.
 
@@ -276,7 +276,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{vqe_h2_analysis,
-  title={VQE-ZNE for H₂ Molecule: Comprehensive Quantum Chemistry Analysis},
+  title={VQE-ZNE with Optuna for H₂ Molecule: Comprehensive Quantum Chemistry Analysis},
   author={Lalith Kanna R},
   year={2025},
   url={https://github.com/LalithKanna/Variational-Quantum-Eigensolver-with-ZNE-Error-mitigation-and-Optuna-hyperparameter-Tuning.git},
